@@ -53,7 +53,8 @@ jQuery(document).ready(function ($) {
 ## Recommended CSS
 
 ```css
-.sticky-only {
+
+.sticky-only {  /* use this if you want the element to be hidden when it's not sticky */
   opacity: 0;
   max-height: 0;
   pointer-events: none;
