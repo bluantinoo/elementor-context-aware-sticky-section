@@ -76,22 +76,22 @@ jQuery(document).ready(function ($) {
 
 ## Optional Enhancements
 
--Add transform: translateY(-10px) for smoother entrance/exit animations.
--Use IntersectionObserver for better performance over large pages.
--Show/hide based on scroll direction.
--Use max-height for a slide-down effect.
+- Add transform: `translateY(-10px)` for smoother entrance/exit animations.
+- Use `IntersectionObserver` for better performance over large pages.
+- Show/hide based on scroll direction.
+- Use `max-height` for a slide-down effect.
 
 ## Example Use Cases
 
--Sticky navigation menus for long-form pages (guides, courses, FAQs)
--Floating call-to-actions that disappear in designated sections (e.g., footers or checkout areas)
--Progress bars, breadcrumbs, or quick links that remain visible during reading
--Inline forms or announcements that stay in view while reading, but hide on conversion areas
+- Sticky navigation menus for long-form pages (guides, courses, FAQs)
+- Floating call-to-actions that disappear in designated sections (e.g., footers or checkout areas)
+- Progress bars, breadcrumbs, or quick links that remain visible during reading
+- Inline forms or announcements that stay in view while reading, but hide on conversion areas
 
 ## Possible Extensions
 
--Trigger the sticky block only after X pixels of scroll
--Disable the sticky element below a specific screen width (mobile/tablet)
--Dynamically control visibility using ACF fields or data attributes
--Combine with Elementor Conditions or Display Rules for even more control
+- Trigger the sticky block only after X pixels of scroll
+- Disable the sticky element below a specific screen width (mobile/tablet)
+- Dynamically control visibility using ACF fields or data attributes
+- Combine with Elementor Conditions or Display Rules for even more control
 
